@@ -1,4 +1,4 @@
-# Nix Shell Template for Gren
+# Nix Shell Template for Rust
 
 This is a template to use rust
 in an isolated [nix shell](https://nixos.wiki/wiki/Development_environment_with_nix-shell)
